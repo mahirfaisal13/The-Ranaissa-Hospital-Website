@@ -1,2 +1,2 @@
 # The-Ranaissa-Hospital-Website
-https://mahirfaisal13.github.io/The-Ranaissa-Hospital-Website/
+https://github.com/mahirfaisal13/The-Ranaissa-Hospital-Website
